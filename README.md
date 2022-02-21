@@ -1,6 +1,6 @@
 # Simple Stepper Motor Analyzer
 
-Modifications made in this branch are largely due to parts shortages.  This allows the use of the TMCS1100A4-Q1 current sensor as an option.
+Modifications made in this fork are largely due to parts shortages.  This allows the use of the TMCS1100A4-Q1 current sensor as an option.
 Changes made:
 &nbsp;
 -Current sensor layout and traces

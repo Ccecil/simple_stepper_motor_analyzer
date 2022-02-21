@@ -1,5 +1,12 @@
 # Simple Stepper Motor Analyzer
 
+Modifications made in this branch are largely due to parts shortages.  This allows the use of the TMCS1100A4-Q1 current sensor as an option.
+Changes made:
+-Current sensor layout and traces
+-Added jumpers for switching 3.3/5v to the current sensors
+-Added voltage dividers to setup vref for the TMCS1100A4-Q1 (DNP if using default sensor)
+-Holes placed to orient the Stencil8 jig for ease of paste stenciling.
+
 
 <span style="color:red"><b>
 NOTE (June 2021): The old design of the Simple Stepper Motor analyzer which was based on the STM32 was moved to https://github.com/zapta/legacy_stepper_motor_analyzer. This is a new and improve design that is based on the Raspberry Pi Pico and a 'bare' TFT panel.</b></span> 

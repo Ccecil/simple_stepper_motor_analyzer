@@ -2,10 +2,15 @@
 
 Modifications made in this branch are largely due to parts shortages.  This allows the use of the TMCS1100A4-Q1 current sensor as an option.
 Changes made:
+&nbsp;
 -Current sensor layout and traces
+&nbsp;
 -Added jumpers for switching 3.3/5v to the current sensors
+&nbsp;
 -Added voltage dividers to setup vref for the TMCS1100A4-Q1 (DNP if using default sensor)
+&nbsp;
 -Holes placed to orient the Stencil8 jig for ease of paste stenciling.
+&nbsp;
 
 
 <span style="color:red"><b>
